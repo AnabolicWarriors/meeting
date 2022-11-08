@@ -4,13 +4,13 @@
 # 각종 서버에 원격 접속 방법에 서술합니다.
 
 1. Raspberry Pi 4
-> vnc: 113.198.229.227:5900
-> ssh gbs102505@113.198.229.227 -p 7022 
-> password: raspberry
+> vnc: 113.198.229.227:5900 <br>
+> ssh gbs102505@113.198.229.227 -p 7022 <br>
+> password: raspberry<br>
 
 2. Asus Tinker Edge R
-> vnc: X
-> ssh linaro@113.198.229.227 -p 8022
-> password: linaro
+> vnc: X<br>
+> ssh linaro@113.198.229.227 -p 8022<br>
+> password: linaro<br>
 
 
