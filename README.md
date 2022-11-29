@@ -15,9 +15,9 @@
 
 3. 딥러닝 서버에 접속하기 위한 경유 서버
 
-> 1차 서버:
-> ssh proxy@coding.udon.party -p 24
-> pw : proxychacha413
-> 2차 메인서버 : 
-> ssh dod@113.1398.230.12
-> pw: dod54321
+> 1차 서버:<br>
+> ssh proxy@coding.udon.party -p 24<br>
+> pw : proxychacha413<br>
+> 2차 메인서버 : <br>
+> ssh dod@113.1398.230.12<br>
+> pw: dod54321<br>
