@@ -13,4 +13,11 @@
 > ssh linaro@113.198.229.227 -p 8022<br>
 > password: linaro<br>
 
+3. 딥러닝 서버에 접속하기 위한 경유 서버
 
+> 1차 서버:
+> ssh proxy@coding.udon.party -p 24
+> pw : proxychacha413
+> 2차 메인서버 : 
+> ssh dod@113.1398.230.12
+> pw: dod54321
