@@ -25,6 +25,6 @@ FlowControl|None
 설명 | 카메라로 부터 사용자를 식별한 데이터를 Tinker에 전송합니다.
 전송 방향 | RPI4B -> Tinker
 전달 데이터 | 성공유무, 사용자 이름, 사용자 아이디
-데이터 프로토콜 | ${failure}|{user_name}|{user_id}#
+데이터 프로토콜 | $(failure)|(user_name)|(user_id)#
 예시 | $true|차주형|aoikazto#
 응답 값 | 없음
